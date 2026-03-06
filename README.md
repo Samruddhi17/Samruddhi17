@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samruddhi Naik
-- 🌱 I’m a Software DevOps Engineer with an M.Sc. in Computer Science.
+- 🌱 I’m a Cloud Engineer with an M.Sc. in Computer Science.
 - 🧘🏻‍♀️ I’m beautiful. I’m strong. I’m powerful.
 - 😁 I love good vibes, wild waves, warm sun, kind words, freedom to be myself....flow, hustle, dreams....and food.
 - 💌 Here's my personal website - https://samruddhi17.github.io/home/
